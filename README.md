@@ -1,2 +1,2 @@
-# goit-js-hw-01-05
-Автопроверка JS 1-5
+# goit-markup-hw-01
+Домашнее задание HTML+CSS
